@@ -14,5 +14,4 @@ Design and implement a Python-based ETL pipeline that fetches weather data for m
 - APScheduler (optional scheduling)
 - OpenWeatherMap API
 
-## Project Structure
-}
+
